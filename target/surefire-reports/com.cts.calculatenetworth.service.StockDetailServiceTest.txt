@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cts.calculatenetworth.service.StockDetailServiceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.231 s - in com.cts.calculatenetworth.service.StockDetailServiceTest

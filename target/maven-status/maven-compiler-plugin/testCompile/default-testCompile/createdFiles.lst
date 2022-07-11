@@ -1,0 +1,5 @@
+com\cts\calculatenetworth\service\StockDetailServiceTest.class
+com\cts\calculatenetworth\service\MutualFundServiceTest.class
+com\cts\calculatenetworth\CalculateNetworthApplicationTests.class
+com\cts\calculatenetworth\controller\NetworthControllerTest.class
+com\cts\calculatenetworth\service\PortfolioDetailServiceTest.class
